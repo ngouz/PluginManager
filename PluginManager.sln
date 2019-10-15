@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginManager", "PluginManager\PluginManager.csproj", "{2ACC957E-7587-47A7-84DA-5E32B6144ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ACC957E-7587-47A7-84DA-5E32B6144ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACC957E-7587-47A7-84DA-5E32B6144ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACC957E-7587-47A7-84DA-5E32B6144ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACC957E-7587-47A7-84DA-5E32B6144ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4753C83-E823-4473-A577-EE0A7F6DA704}
+	EndGlobalSection
+EndGlobal

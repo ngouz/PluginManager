@@ -1,0 +1,11 @@
+C:\Users\MS5N\PluginManager\PluginManager\bin\Debug\netcoreapp2.0\PluginManager.deps.json
+C:\Users\MS5N\PluginManager\PluginManager\bin\Debug\netcoreapp2.0\PluginManager.runtimeconfig.json
+C:\Users\MS5N\PluginManager\PluginManager\bin\Debug\netcoreapp2.0\PluginManager.runtimeconfig.dev.json
+C:\Users\MS5N\PluginManager\PluginManager\bin\Debug\netcoreapp2.0\PluginManager.dll
+C:\Users\MS5N\PluginManager\PluginManager\obj\Debug\netcoreapp2.0\PluginManager.csprojResolveAssemblyReference.cache
+C:\Users\MS5N\PluginManager\PluginManager\obj\Debug\netcoreapp2.0\PluginManager.csproj.CoreCompileInputs.cache
+C:\Users\MS5N\PluginManager\PluginManager\obj\Debug\netcoreapp2.0\PluginManager.AssemblyInfoInputs.cache
+C:\Users\MS5N\PluginManager\PluginManager\obj\Debug\netcoreapp2.0\PluginManager.AssemblyInfo.cs
+C:\Users\MS5N\PluginManager\PluginManager\bin\Debug\netcoreapp2.0\PluginManager.pdb
+C:\Users\MS5N\PluginManager\PluginManager\obj\Debug\netcoreapp2.0\PluginManager.dll
+C:\Users\MS5N\PluginManager\PluginManager\obj\Debug\netcoreapp2.0\PluginManager.pdb
